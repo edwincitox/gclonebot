@@ -1,7 +1,5 @@
 <h1 align="center">⚡ gclonebot ⚡<br></h1> 
 
-<br />
-
 <p align="center">gclonebot is a telegram bot that allows you to copy folder/team drive to team drives. One of the main advantage of this bot is that you can host it to Heroku for free.<p/>
 
 #### ✅ Advantages
@@ -22,7 +20,7 @@
 > group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id<br>
 > gclone_para_override = leave this empty if you don't know how to use it<br>
 3. Install [python](https://www.python.org/downloads/)
-4. open CMD and cd to the folder containing the bot
+4. cd to the folder containing the bot
 5. run `sudo pip install -r requirements.txt`
 6. cd to the telegram_gcloner folder and run : `py telegram_gcloner.py`
 7. Start your bot and you can copy your data!
